@@ -1,0 +1,5 @@
+webrick:
+  headers:
+    Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+url: https://hpkpcalc.github.io/
